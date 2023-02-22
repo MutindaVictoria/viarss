@@ -1,0 +1,50 @@
+.header{color: plum;
+    font-size: xx-large;
+    font-weight: 1000;
+    padding-top: 15px;
+
+}
+.container{
+    display: flex;
+    padding-left: 200px;
+    justify-content: space-between;
+    padding-bottom: 100px;
+}
+
+
+
+.ul{
+    display: flex;
+    gap: 5rem;
+    list-style-type: none;
+    font-size: x-large;
+    text-align: left;
+    padding: 10px;
+
+}
+.nav{
+    display: flex;
+    border-radius: 0.5px;
+    font-size:small;
+    padding-left: 100px;
+}
+.move{
+    display: flex;
+    flex-direction: row;
+}
+.headers{
+    font-weight: bolder;
+    color: blue;
+    font-size: xx-large;
+}
+.topics{
+    font-weight: bold;
+    color:black;
+    font-size: x-large;
+    
+}
+.vrs{
+    position: absolute;
+    margin-left: 40%;
+    margin-top: -13%;
+}
